@@ -21,10 +21,10 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="index.php" class="logo">travel.</a>
 
    <nav class="navbar">
-      <a href="home.php">home</a>
+      <a href="index.php">home</a>
       <a href="about.php">about</a>
       <a href="package.php">package</a>
       <a href="book.php">book</a>
@@ -200,7 +200,7 @@
 
       <div class="box">
          <h3>quick links</h3>
-         <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
+         <a href="index.php"> <i class="fas fa-angle-right"></i> home</a>
          <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
          <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
          <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
