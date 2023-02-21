@@ -6,17 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>package</title>
-
-
-
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
-
-
-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
-
-
     <link rel="stylesheet" href="css/style.css">
 
 </head>
@@ -41,15 +32,9 @@
 
     </section>
 
-
-
-
     <div class="heading" style="background:url(images/header-bg-2.png) no-repeat">
         <h1>packages</h1>
     </div>
-
-
-
 
     <section class="packages">
 
@@ -195,22 +180,6 @@
 
     </section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <section class="footer">
 
         <div class="box-container">
@@ -253,20 +222,7 @@
 
     </section>
 
-
-
-
-
-
-
-
-
-
-
-
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
-
-
     <script src="js/script.js"></script>
 
 </body>

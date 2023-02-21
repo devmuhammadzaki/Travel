@@ -20,5 +20,3 @@ if (isset($_POST['send'])) {
 } else {
    echo 'something went wrong please try again!';
 }
-
-?>
