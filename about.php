@@ -221,7 +221,7 @@
 
         </div>
 
-        <div class="credit"> created by <span>Muhammad Zaki</span> | all rights reserved! </div>
+        <div class="credit">&copy; <?php echo $year = date('Y'); ?> Muhammad Zaki</div>
 
     </section>
 
